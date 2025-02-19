@@ -1,3 +1,9 @@
 {
-  "books": []
+  "books": [
+    { "id": 1, "title": "Book one", "author": "Samuel", "read": 0 },
+    { "id": 2, "title": "Book two", "author": "Daniel", "read": 0 },
+    { "id": 3, "title": "Book three", "author": "Paul", "read": 0 }
+  ],
+
+  "posts": []
 }
